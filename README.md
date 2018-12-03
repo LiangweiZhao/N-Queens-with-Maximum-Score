@@ -1,0 +1,2 @@
+# N-Queens-with-Maximum-Score
+Original Problem is related to a daily safe problem: in campus, there are lots of scooters. In order to keep everybody be safe, officers are needed to monitor safety in this environment. Imagine campus as a 2d-array coordinate, scooters have their own routes which can be represented as several lines in this 2d-array. When a scooter visited a coordinate point, this point gain 1 safety score. The goal is to find a placement of officers to optimize the safety scores.
